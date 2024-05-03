@@ -7,7 +7,7 @@ The user navigates to `cats/1` but using an edge middleware function we can serv
 Downside: This will probably scale poorly if you have thousands of statically generated pages
 Upside: Little to no overhead on rendering performance and user experience.
 
-Tested on Next.js 14.x
+Tested on Next.js 14.x deployed on Vercel.
 
 ## How to run example
 
