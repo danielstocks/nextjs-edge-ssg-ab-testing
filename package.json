@@ -1,5 +1,5 @@
 {
-  "name": "nextjs-edge-cat-ab-test",
+  "name": "nextjs-edge-ssg-ab-testing",
   "version": "0.1.0",
   "private": true,
   "scripts": {
